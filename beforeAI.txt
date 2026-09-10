@@ -1,0 +1,8 @@
+Task 3 → AI-generated prediction challenge
+Task 4 → Prediction locking + confidence
+Task 5 → AI answer reveal
+Task 6 → grading + evidence quote
+Task 7 → scoring/calibration
+Task 8 → profile/history
+Task 9 → demo mode + polish
+Task 10 → deployment + hackathon demo
